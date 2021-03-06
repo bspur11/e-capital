@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ecommerce_db",
   "version": "1.0.0",
   "description": "e-commerce",
   "main": "server.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@work.https://github.com/bspur11/e-capital.git"
   },
   "keywords": [],
   "author": "brad",
